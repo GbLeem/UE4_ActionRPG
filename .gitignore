@@ -74,7 +74,11 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 #Asset Files#
+
 */Content/InfinityBladeWeapons
 */Content/ParagonGreystone
+*/Content/ParagonGideon
 */Content/ParagonKwang
+*/Content/ParagonMinions
 */Content/RPGEffects
+*/Content/GrassLandscape
